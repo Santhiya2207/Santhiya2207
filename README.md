@@ -1,69 +1,91 @@
-# Hi, I'm Santhiya S 👋
-Computer Science graduate (CGPA 8.2, Anna University, 2026) with a dual focus in **Web Development** and **Data Analytics**.  
-Built projects spanning full-stack web apps, IoT systems, and RPA automation.  
-Completed a Deloitte data analytics simulation and hold certifications in **Python, Salesforce, and Machine Learning**.  
-Looking for an entry-level role that leverages both development and analytical skills to deliver **data-driven digital solutions**.  
+# 👋 Hi, I'm Santhiya S
+
+🎓 Computer Science Graduate (2022–2026)  
+📊 Data Analyst | 💻 Developer | 🤖 AI Enthusiast  
+
+📍 Thanjavur, Tamil Nadu  
+📧 bavanabavana98@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/santhiya-s-b016122a4)  
+💻 [GitHub](https://github.com/Santhiya2207)
+
+---
+
+## 🧠 Professional Summary
+
+Computer Science Engineering graduate (CGPA 8.2) with a strong interest in building real-world, data-driven solutions. Skilled in Python, SQL, Tableau, and Power BI. Experienced in AI, IoT, and data analytics projects, including Deloitte Data Analytics virtual internship.
 
 ---
 
 ## 🎓 Education
-**B.E - Computer Science Engineering**  
-Pavendar Bharathidasan College of Engineering and Technology, Anna University  
-**Year:** 2022 – 2026 | **CGPA:** 8.2  
+
+**B.E – Computer Science Engineering**  
+Pavendar Bharathidasan College of Engineering and Technology  
+Anna University (2022–2026)  
+CGPA: 8.2 / 10  
 
 ---
 
-## 💻 Skills
-- **Programming Languages:** Python, C, SQL  
-- **Data Analysis & Visualization:** Pandas, NumPy, Excel, Power BI, Tableau  
-- **Web Development:** HTML, CSS, JavaScript, Node.js  
-- **Tools & Technologies:** MS Office  
-- **Core Competencies:** Problem Solving, Communication, Time Management, Team Collaboration  
+## 💻 Technical Skills
+
+- **Languages:** Python, C, SQL  
+- **Data:** Pandas, NumPy, Excel, Power BI, Tableau, R  
+- **Web:** HTML, CSS, JavaScript, Node.js  
+- **AI/ML:** YOLO, CNN, Transfer Learning  
+- **Tools:** UiPath, Git, MS Office  
+- **Cloud:** Google Cloud, Salesforce  
 
 ---
 
-## 🔭 Projects
-1. **Garage Management System** – Web app for vehicle entry and billing using HTML, CSS, JavaScript  
-2. **Urban Air Quality Monitoring (IoT)** – Built IoT system to monitor air pollution; Python for data analysis  
-3. **Ticket Data Extractor (RPA)** – Automated ticket data extraction; improved data accuracy & reduced manual work  
+## 💼 Internship Experience
+
+### 📊 Deloitte Data Analytics Virtual Internship (Forage)
+- Created Tableau dashboards for machine downtime analysis  
+- Used calculated fields for insights  
+- Classified data using Excel  
+
+### 📊 Data Analysis Intern (Academic)
+- Data cleaning using Excel  
+- Used VLOOKUP, IF, filters  
+- Created reports & dashboards  
+
+---
+
+## 🚀 Projects
+
+### 🔆 Solar Fault Detection (Final Year Project)
+- AI-based solar panel fault detection using YOLO  
+- Real-time defect analysis  
+- Built web interface  
+
+### 🚗 Garage Management System
+- Vehicle entry + billing system  
+- Real-time tracking UI  
+
+### 🌫️ Air Quality Monitoring (IoT)
+- Sensor-based pollution tracking  
+- Automated alerts using Python  
+
+### 🤖 Ticket Data Extractor (RPA)
+- Automated ticket processing using UiPath  
+- Reduced manual effort  
 
 ---
 
 ## 📜 Certifications
-- **Machine Learning Project using R** – Anna University | May 2025  
-- **Python Programming** – Microsoft (Skill India Digital Hub) | Mar 2026  
-- **Salesforce Developer** – SmartBridge (Naan Mudhalvan – TNSDC) | Dec 2025  
-- **Microsoft Office Essentials** – Microsoft (Naan Mudhalvan – TNSDC) | Oct 2025  
-- **Introduction to Generative AI** – Google Cloud | Dec 2025  
+
+- Python Programming – Microsoft  
+- Salesforce Developer – SmartBridge  
+- Generative AI – Google Cloud  
+- Microsoft Office – TNSDC  
+- Machine Learning – Anna University  
 
 ---
 
-## 🏢 Internships
-1. **Data Analytics Job Simulation – Deloitte (Forage)** | March 2026 | Virtual  
-   - Performed data analysis using Excel and Tableau  
-   - Worked on real-world business scenarios and visualizations  
-   - Developed analytical & problem-solving skills  
+## 🌐 Languages
 
-2. **Data Analysis Intern – Pavendar Bharathidasan College of Engineering and Technology** | 3 Months  
-   - Cleaned and analyzed data using Excel  
-   - Created dashboards and reports  
-   - Identified trends and insights  
+- Tamil – Native  
+- English – Professional  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Python & Machine Learning  
-- React.js & Modern Web Development  
-- Data Visualization & Analytics  
-
----
-
-## 📫 Contact Me
-- **Email:** bavanabavana98@gmail.com  
- - **Location:** Thanjavur, Tamil Nadu, India  
-- [LinkedIn][www.linkedin.com/in/santhiya-s-b016122a4]
----
-
-## ⚡ Fun Fact
-- Love solving coding challenges and experimenting with new technologies  
-- Passionate about building **real-world applications** that make an impact
+⭐ *Open to internships & entry-level roles*
