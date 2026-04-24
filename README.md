@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Santhiya S
 
+![Profile Views](https://komarev.com/ghpvc/?username=Santhiya2207&label=Profile%20views&color=0e75b6&style=flat)
+
 🎓 Computer Science Graduate (2022–2026)  
-📊 Data Analyst | 💻 Developer | 🤖 AI Enthusiast  
+📊 Data Analyst | 💻 Full Stack Developer | 🤖 AI Enthusiast  
 
 📍 Thanjavur, Tamil Nadu  
 📧 bavanabavana98@gmail.com  
@@ -10,64 +12,70 @@
 
 ---
 
-## 🧠 Professional Summary
+## 🚀 About Me
 
-Computer Science Engineering graduate (CGPA 8.2) with a strong interest in building real-world, data-driven solutions. Skilled in Python, SQL, Tableau, and Power BI. Experienced in AI, IoT, and data analytics projects, including Deloitte Data Analytics virtual internship.
-
----
-
-## 🎓 Education
-
-**B.E – Computer Science Engineering**  
-Pavendar Bharathidasan College of Engineering and Technology  
-Anna University (2022–2026)  
-CGPA: 8.2 / 10  
+I am a Computer Science Engineering graduate passionate about building **AI-powered systems, data-driven applications, and full-stack web platforms**. I enjoy solving real-world problems using technology and continuously improving my skills in development and analytics.
 
 ---
 
-## 💻 Technical Skills
+## 🧠 Tech Stack
 
-- **Languages:** Python, C, SQL  
-- **Data:** Pandas, NumPy, Excel, Power BI, Tableau, R  
-- **Web:** HTML, CSS, JavaScript, Node.js  
-- **AI/ML:** YOLO, CNN, Transfer Learning  
-- **Tools:** UiPath, Git, MS Office  
-- **Cloud:** Google Cloud, Salesforce  
+### 👩‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-AI-red?style=for-the-badge)
+
+### ☁️ Tools & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Smart Hire – AI Job Portal (Full Stack Project)
+- AI-based job matching score system
+- Real-time messaging between recruiter & candidate
+- Resume upload + email notifications
+- Firebase Auth, Firestore, Cloudinary, EmailJS
+- Smart job recommendations based on skills
+
+---
+
+### ☀️ Solar Fault Detection (Final Year Project)
+- YOLO-based AI model for solar panel defect detection
+- Real-time fault identification system
+- Web interface for monitoring results
+
+---
+
+### 🚗 Garage Management System
+- Vehicle service tracking system
+- Billing + job status management
+- Streamlined garage operations workflow
 
 ---
 
 ## 💼 Internship Experience
 
-### 📊 Deloitte Data Analytics Virtual Internship (Forage)
-- Created Tableau dashboards for machine downtime analysis  
-- Used calculated fields for insights  
-- Classified data using Excel  
-
-### 📊 Data Analysis Intern (Academic)
-- Data cleaning using Excel  
-- Used VLOOKUP, IF, filters  
-- Created reports & dashboards  
-
----
-
-## 🚀 Projects
-
-### 🔆 Solar Fault Detection (Final Year Project)
-- AI-based solar panel fault detection using YOLO  
-- Real-time defect analysis  
-- Built web interface  
-
-### 🚗 Garage Management System
-- Vehicle entry + billing system  
-- Real-time tracking UI  
-
-### 🌫️ Air Quality Monitoring (IoT)
-- Sensor-based pollution tracking  
-- Automated alerts using Python  
-
-### 🤖 Ticket Data Extractor (RPA)
-- Automated ticket processing using UiPath  
-- Reduced manual effort  
+### 📊 Deloitte Data Analytics Virtual Internship
+- Built dashboards using Tableau
+- Excel-based data analysis & visualization
+- Business insights using calculated fields
 
 ---
 
@@ -76,8 +84,15 @@ CGPA: 8.2 / 10
 - Python Programming – Microsoft  
 - Salesforce Developer – SmartBridge  
 - Generative AI – Google Cloud  
-- Microsoft Office – TNSDC  
 - Machine Learning – Anna University  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhiya2207&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiya2207&layout=compact&theme=tokyonight)
 
 ---
 
@@ -88,4 +103,4 @@ CGPA: 8.2 / 10
 
 ---
 
-⭐ *Open to internships & entry-level roles*
+⭐ *Open to internships in Data Analytics, AI, and Full Stack Development*
