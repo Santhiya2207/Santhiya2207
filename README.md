@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Santhiya S
 
-![Profile Views](https://komarev.com/ghpvc/?username=Santhiya2207&label=Profile%20views&color=0e75b6&style=flat)
-
 🎓 Computer Science Graduate (2022–2026)  
-📊 Data Analyst | 💻 Full Stack Developer | 🤖 AI Enthusiast  
+📊 Data Analyst | 💻 Full Stack Developer  
 
 📍 Thanjavur, Tamil Nadu  
 📧 bavanabavana98@gmail.com  
@@ -12,70 +10,68 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 Professional Summary
 
-I am a Computer Science Engineering graduate passionate about building **AI-powered systems, data-driven applications, and full-stack web platforms**. I enjoy solving real-world problems using technology and continuously improving my skills in development and analytics.
-
----
-
-## 🧠 Tech Stack
-
-### 👩‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📊 Data & AI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-AI-red?style=for-the-badge)
-
-### ☁️ Tools & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+Computer Science Engineering graduate (CGPA 8.2) passionate about building real-world data-driven applications and full-stack web solutions. Skilled in Python, SQL, Power BI, Tableau, and web development with hands-on experience in analytics and software projects.
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education
+
+**B.E – Computer Science Engineering**  
+Pavendar Bharathidasan College of Engineering and Technology  
+Anna University (2022–2026)  
+CGPA: 8.2 / 10  
+
+---
+
+## 🚀 Projects
 
 ### 🤖 Smart Hire – AI Job Portal (Full Stack Project)
-- AI-based job matching score system
-- Real-time messaging between recruiter & candidate
-- Resume upload + email notifications
-- Firebase Auth, Firestore, Cloudinary, EmailJS
-- Smart job recommendations based on skills
+- Job portal web application with job matching score system  
+- Features: real-time messaging, job application tracking, resume upload, email notifications  
+- Built using: HTML, CSS, JavaScript, Firebase Authentication & Firestore, Cloudinary, EmailJS  
+- Smart job recommendation system based on user skills and profile data  
 
 ---
 
 ### ☀️ Solar Fault Detection (Final Year Project)
-- YOLO-based AI model for solar panel defect detection
-- Real-time fault identification system
-- Web interface for monitoring results
+- AI-based solar panel fault detection using YOLO  
+- Real-time defect detection and monitoring system  
+- Web interface for visualization and analysis  
 
 ---
 
 ### 🚗 Garage Management System
-- Vehicle service tracking system
-- Billing + job status management
-- Streamlined garage operations workflow
+- Web application for vehicle service management  
+- Handles vehicle entry, service tracking, and billing system  
+- Improves workflow efficiency and reduces manual work  
 
 ---
 
 ## 💼 Internship Experience
 
-### 📊 Deloitte Data Analytics Virtual Internship
-- Built dashboards using Tableau
-- Excel-based data analysis & visualization
-- Business insights using calculated fields
+### 📊 Deloitte Data Analytics Virtual Internship (Forage)
+- Built Tableau dashboards for operational insights  
+- Used Excel-based data analysis and calculated fields  
+- Performed data classification and visualization  
+
+---
+
+### 📊 Data Analysis Intern (Academic)
+- Data cleaning and preprocessing using Excel  
+- Applied VLOOKUP, IF conditions, and filters  
+- Created reports and dashboards  
+
+---
+
+## 💻 Technical Skills
+
+- **Languages:** Python, C, SQL  
+- **Data Tools:** Pandas, NumPy, Excel, Power BI, Tableau  
+- **Web:** HTML, CSS, JavaScript, Node.js  
+- **Tools:** Git, MS Office  
+- **Cloud:** Firebase, Google Cloud, Salesforce  
 
 ---
 
@@ -84,15 +80,8 @@ I am a Computer Science Engineering graduate passionate about building **AI-powe
 - Python Programming – Microsoft  
 - Salesforce Developer – SmartBridge  
 - Generative AI – Google Cloud  
+- Microsoft Office – TNSDC  
 - Machine Learning – Anna University  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhiya2207&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhiya2207&layout=compact&theme=tokyonight)
 
 ---
 
@@ -103,4 +92,4 @@ I am a Computer Science Engineering graduate passionate about building **AI-powe
 
 ---
 
-⭐ *Open to internships in Data Analytics, AI, and Full Stack Development*
+⭐ Open to internships & entry-level roles in Data Analytics and Full Stack Development
