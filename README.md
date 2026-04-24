@@ -27,7 +27,8 @@ CGPA: 8.2 / 10
 
 ## 🚀 Projects
 
-### 🤖 Smart Hire – AI Job Portal (Full Stack Project)
+### 🤖 Smart Hire – AI Job Portal (Full Stack Project) - https://smart-job-portal-82772.web.app
+
 - Job portal web application with job matching score system  
 - Features: real-time messaging, job application tracking, resume upload, email notifications  
 - Built using: HTML, CSS, JavaScript, Firebase Authentication & Firestore, Cloudinary, EmailJS  
@@ -35,7 +36,7 @@ CGPA: 8.2 / 10
 
 ---
 
-### ☀️ Solar Fault Detection (Final Year Project) https://smart-job-portal-82772.web.app
+### ☀️ Solar Fault Detection (Final Year Project) 
 
 - AI-based solar panel fault detection using YOLO  
 - Real-time defect detection and monitoring system  
@@ -43,7 +44,7 @@ CGPA: 8.2 / 10
 
 ---
 
-### 🚗 Garage Management System 
+### 🚗 Garage Management System - https://github.com/Santhiya2207/Garage-Management-Systems.git
 - Web application for vehicle service management  
 - Handles vehicle entry, service tracking, and billing system  
 - Improves workflow efficiency and reduces manual work  
