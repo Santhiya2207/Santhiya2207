@@ -35,14 +35,15 @@ CGPA: 8.2 / 10
 
 ---
 
-### ☀️ Solar Fault Detection (Final Year Project)
+### ☀️ Solar Fault Detection (Final Year Project) https://smart-job-portal-82772.web.app
+
 - AI-based solar panel fault detection using YOLO  
 - Real-time defect detection and monitoring system  
 - Web interface for visualization and analysis  
 
 ---
 
-### 🚗 Garage Management System
+### 🚗 Garage Management System 
 - Web application for vehicle service management  
 - Handles vehicle entry, service tracking, and billing system  
 - Improves workflow efficiency and reduces manual work  
