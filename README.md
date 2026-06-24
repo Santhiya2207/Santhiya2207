@@ -12,7 +12,7 @@
 
 ## 🧠 Professional Summary
 
-Computer Science Engineering graduate (CGPA 8.2) passionate about building real-world data-driven applications and full-stack web solutions. Skilled in Python, SQL, Power BI, Tableau, and web development with hands-on experience in analytics and software projects.
+Computer Science Engineering graduate (CGPA 8.2) passionate about building real-world data-driven applications and full-stack web solutions. Skilled in Python,java, SQL, Power BI, Tableau, and web development with hands-on experience in analytics and software projects.
 
 ---
 
@@ -69,7 +69,7 @@ CGPA: 8.2 / 10
 
 ## 💻 Technical Skills
 
-- **Languages:** Python, C, SQL  
+- **Languages:** Python,java C, SQL  
 - **Data Tools:** Pandas, NumPy, Excel, Power BI, Tableau  
 - **Web:** HTML, CSS, JavaScript, Node.js  
 - **Tools:** Git, MS Office  
