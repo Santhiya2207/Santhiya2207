@@ -15,12 +15,12 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 2022 – 2026 | CGPA: 8.2 / 10.0
 ---
 ## 🚀 Projects
-### 🗂️ Employee Management System | ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap | Aug 2026
+### 🗂️ Employee Management System | ASP.NET Core MVC, C#, Entity Framework Core, MySQL, Bootstrap | Aug 2026
 🔗 [GitHub Repo](https://github.com/Santhiya2207/Employee-Management-System)
 - Developed a full-stack employee management web application using ASP.NET Core MVC with CRUD operations for employee records including name, email, department, and salary details.
 - Implemented secure user authentication and authorization using ASP.NET Core Identity, restricting employee data access to logged-in users only.
 - Designed a responsive Bootstrap-based UI with dynamic navigation reflecting user login state (Login/Register vs. profile management).
-- Integrated Entity Framework Core with SQL Server for efficient data persistence and CRUD operations following MVC architecture best practices.
+- Integrated Entity Framework Core with MySQL for efficient data persistence and CRUD operations following MVC architecture best practices.
 ---
 ### 🤖 SmartHire – Smart Job Portal | HTML5, CSS3, JavaScript, Firebase, EmailJS | April 2026
 🔗 [Live App](https://smart-job-portal-82772.web.app)
