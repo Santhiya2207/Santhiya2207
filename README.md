@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Santhiya S
-🎓 Computer Science Engineer | Full Stack Developer | Data Analyst  
+🎓 Computer Science Engineer | Full Stack Developer (.NET/MVC) | Data Analyst  
 📍 Thanjavur, Tamil Nadu  
 📧 bavanabavana98@gmail.com | 📱 +91 8438802456  
 🔗 [LinkedIn](https://linkedin.com/in/santhiya-s-b016122a4)  
@@ -7,7 +7,7 @@
 🌐 [Portfolio](https://santhiya2207.github.io/Santhiya-portfolio)
 ---
 ## 🧠 Professional Summary
-Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in data analysis, full-stack web development, and AI/ML solutions. Skilled in Python, Java, SQL, JavaScript, Tableau, and Power BI, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an AI-powered solar fault detection system using YOLO, and a garage management system. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver innovative, data-driven solutions as a Software Developer, Full-Stack Developer, or Data Analyst.
+Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in data analysis, full-stack web development (including ASP.NET Core MVC), and AI/ML solutions. Skilled in Python, Java, C#, SQL, JavaScript, Tableau, and Power BI, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an ASP.NET Core MVC employee management system, and an AI-powered solar fault detection system using YOLO. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver innovative, data-driven solutions as a Software Developer, Full-Stack (.NET) Developer, or Data Analyst.
 ---
 ## 🎓 Education
 **Bachelor of Engineering – Computer Science Engineering**  
@@ -15,6 +15,13 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 2022 – 2026 | CGPA: 8.2 / 10.0
 ---
 ## 🚀 Projects
+### 🗂️ Employee Management System | ASP.NET Core MVC, C#, Entity Framework Core, SQL Server, Bootstrap | Aug 2026
+🔗 [GitHub Repo](https://github.com/Santhiya2207/Employee-Management-System)
+- Developed a full-stack employee management web application using ASP.NET Core MVC with CRUD operations for employee records including name, email, department, and salary details.
+- Implemented secure user authentication and authorization using ASP.NET Core Identity, restricting employee data access to logged-in users only.
+- Designed a responsive Bootstrap-based UI with dynamic navigation reflecting user login state (Login/Register vs. profile management).
+- Integrated Entity Framework Core with SQL Server for efficient data persistence and CRUD operations following MVC architecture best practices.
+---
 ### 🤖 SmartHire – Smart Job Portal | HTML5, CSS3, JavaScript, Firebase, EmailJS | April 2026
 🔗 [Live App](https://smart-job-portal-82772.web.app)
 - Developed and deployed a full-stack job portal application enabling end-to-end job search, application tracking, and user profile management on a single platform.
@@ -30,12 +37,6 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Achieved high precision and recall (mAP); system generates visual annotations and actionable maintenance reports in real time.
 - Built a full-stack web interface allowing users to upload panel images and receive instant defect analysis results.
 ---
-### 🚗 Garage Management System | HTML5, CSS3, JavaScript | Sep 2025 – Nov 2025
-🔗 [GitHub Repo](https://github.com/Santhiya2207/Garage-Management-Systems.git)
-- Developed a full-stack web application for automated vehicle entry logging, service tracking, and digital billing, eliminating manual record-keeping processes.
-- Designed a responsive, user-friendly UI enabling real-time vehicle tracking and instant invoice generation for garage staff.
-- Implemented structured workflow for service status updates and record management, reducing administrative overhead.
----
 ## 💼 Internship Experience
 ### 📊 Data Analytics Virtual Intern | Deloitte (Forage) | Mar 2026 | Virtual
 - Completed 2 data analysis simulation tasks using Tableau and Excel to analyze machine downtime data.
@@ -50,13 +51,13 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 ---
 ## 💻 Technical Skills
 - **Programming Languages:** Python, Java, C#, SQL, JavaScript, C
-- **Web Development:** HTML5, CSS3, JavaScript, Node.js, Firebase, EmailJS, Responsive Web Design
+- **Web Development:** HTML5, CSS3, JavaScript, ASP.NET Core MVC, Entity Framework Core, ASP.NET Identity, Node.js, Firebase, EmailJS, Responsive Web Design
 - **Data Analysis & Business Intelligence:** Excel, Pandas, NumPy, Power BI, Tableau, R
-- **Databases:** MySQL, Firebase Realtime Database
+- **Databases:** MySQL, SQL Server, Firebase Realtime Database
 - **AI / Machine Learning:** YOLO (Object Detection), CNN, Transfer Learning, Image Preprocessing, Data Augmentation
 - **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
-- **Tools & Platforms:** Git, GitHub, Google Cloud, Firebase Hosting, UiPath (RPA), Salesforce, MS Office
-- **Software Development:** REST APIs, Authentication, CRUD Operations, Data Cleaning, Dashboard Development, Debugging
+- **Tools & Platforms:** Git, GitHub, Google Cloud, Firebase Hosting, UiPath (RPA), Salesforce, MS Office, Visual Studio
+- **Software Development:** REST APIs, Authentication & Authorization, CRUD Operations, MVC Architecture, Unit Testing, Version Control (Git), Agile/Scrum, SDLC, Data Cleaning, Dashboard Development, Debugging
 ---
 ## 📜 Certifications
 - Python Programming – Microsoft via Skill India Digital Hub (Mar 2026)
@@ -69,4 +70,4 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Tamil – Native / Mother Tongue
 - English – Professional Working Proficiency
 ---
-⭐ Open to internships & entry-level roles in Data Analytics and Full Stack Development
+⭐ Open to internships & entry-level roles in Full Stack (.NET) Development and Data Analytics
