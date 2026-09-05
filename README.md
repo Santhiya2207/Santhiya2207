@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Santhiya S
-🎓 Computer Science Engineer | Full Stack Developer | Data Analyst  
+🎓 Computer Science Engineer  
 📍 Thanjavur, Tamil Nadu  
 📧 bavanabavana98@gmail.com | 📱 +91 8438802456  
 🔗 [LinkedIn](https://linkedin.com/in/santhiya-s-b016122a4)  
@@ -7,7 +7,7 @@
 🌐 [Portfolio](https://santhiya2207.github.io/Santhiya-portfolio)
 ---
 ## 🧠 Professional Summary
-Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in full-stack web development (ASP.NET Core MVC, JavaScript/Firebase) and data analysis (Excel, Tableau, Power BI). Skilled in Python, C#, SQL, and JavaScript, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an ASP.NET Core MVC employee management system, and a solar panel fault detection system. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver data-driven, full-stack solutions as a Full Stack Developer or Data Analyst.
+Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in full-stack web development (ASP.NET Core MVC, JavaScript/Firebase), data analysis (Excel, Tableau, Power BI), and AI/ML solutions. Skilled in Python, Java, C#, SQL, and JavaScript, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an ASP.NET Core MVC employee management system, and an AI-powered solar fault detection system using YOLO. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver innovative, data-driven solutions.
 ---
 ## 🎓 Education
 **Bachelor of Engineering – Computer Science Engineering**  
@@ -54,6 +54,7 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - **Web Development:** HTML5, CSS3, JavaScript, ASP.NET Core MVC, Entity Framework Core, ASP.NET Identity, Node.js, Firebase, EmailJS, Responsive Web Design
 - **Data Analysis & Business Intelligence:** Excel, Pandas, NumPy, Power BI, Tableau, R, Data Cleaning, Dashboard Development
 - **Databases:** MySQL, SQL Server, Firebase Realtime Database
+- **AI / Machine Learning:** YOLO (Object Detection), CNN, Transfer Learning, Image Preprocessing, Data Augmentation
 - **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
 - **Tools & Platforms:** Git, GitHub, Google Cloud, Firebase Hosting, MS Office, Visual Studio
 - **Software Development:** REST APIs, Authentication & Authorization, CRUD Operations, MVC Architecture, Unit Testing, Version Control (Git), Agile/Scrum, SDLC, Debugging
@@ -68,4 +69,4 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Tamil – Native / Mother Tongue
 - English – Professional Working Proficiency
 ---
-⭐ Open to internships & entry-level roles in Full Stack Development and Data Analytics
+⭐ Open to internships & entry-level roles in Software Development, Full Stack Development, and Data Analytics
