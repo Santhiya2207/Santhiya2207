@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Santhiya S
-🎓 Computer Science Engineer | Full Stack Developer (.NET/MVC) | Data Analyst  
+🎓 Computer Science Engineer | Full Stack Developer | Data Analyst  
 📍 Thanjavur, Tamil Nadu  
 📧 bavanabavana98@gmail.com | 📱 +91 8438802456  
 🔗 [LinkedIn](https://linkedin.com/in/santhiya-s-b016122a4)  
@@ -7,7 +7,7 @@
 🌐 [Portfolio](https://santhiya2207.github.io/Santhiya-portfolio)
 ---
 ## 🧠 Professional Summary
-Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in data analysis, full-stack web development (including ASP.NET Core MVC), and AI/ML solutions. Skilled in Python, Java, C#, SQL, JavaScript, Tableau, and Power BI, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an ASP.NET Core MVC employee management system, and an AI-powered solar fault detection system using YOLO. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver innovative, data-driven solutions as a Software Developer, Full-Stack (.NET) Developer, or Data Analyst.
+Computer Science Engineering graduate (CGPA: 8.2) with hands-on experience in full-stack web development (ASP.NET Core MVC, JavaScript/Firebase) and data analysis (Excel, Tableau, Power BI). Skilled in Python, C#, SQL, and JavaScript, with a strong foundation in problem-solving and software development. Built impactful projects including a Firebase-based job portal, an ASP.NET Core MVC employee management system, and a solar panel fault detection system. Completed the Deloitte Data Analytics Virtual Internship and eager to deliver data-driven, full-stack solutions as a Full Stack Developer or Data Analyst.
 ---
 ## 🎓 Education
 **Bachelor of Engineering – Computer Science Engineering**  
@@ -30,7 +30,7 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Enabled resume upload functionality and personalized user dashboards to improve candidate experience.
 - Deployed on Firebase Hosting ensuring high availability, scalability, and fast load performance.
 ---
-### ☀️ Intelligent PV Panel Monitoring – Solar Cell Fault Detection | Python, YOLO (Deep Learning), HTML5, CSS3, JavaScript, MySQL | Feb 2026 – Apr 2026
+### ☀️ Solar Panel Fault Detection – PV Monitoring | Python, YOLO (Deep Learning), HTML5, CSS3, JavaScript, MySQL | Feb 2026 – Apr 2026
 - Developed an AI-based real-time solar panel fault detection system using YOLO deep learning to identify defects including micro-cracks, hotspots, dirt accumulation, shading, and material degradation.
 - Applied transfer learning with pre-trained weights, fine-tuned anchor boxes, and custom loss functions improving detection accuracy for small and complex defect patterns.
 - Implemented advanced image preprocessing and data augmentation pipelines to ensure robustness under varying lighting and environmental conditions.
@@ -50,18 +50,16 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Developed Excel-based dashboards and charts to present key data insights to stakeholders.
 ---
 ## 💻 Technical Skills
-- **Programming Languages:** Python, Java, C#, SQL, JavaScript, C
+- **Programming Languages:** Python, Java, C#, SQL, JavaScript
 - **Web Development:** HTML5, CSS3, JavaScript, ASP.NET Core MVC, Entity Framework Core, ASP.NET Identity, Node.js, Firebase, EmailJS, Responsive Web Design
-- **Data Analysis & Business Intelligence:** Excel, Pandas, NumPy, Power BI, Tableau, R
+- **Data Analysis & Business Intelligence:** Excel, Pandas, NumPy, Power BI, Tableau, R, Data Cleaning, Dashboard Development
 - **Databases:** MySQL, SQL Server, Firebase Realtime Database
-- **AI / Machine Learning:** YOLO (Object Detection), CNN, Transfer Learning, Image Preprocessing, Data Augmentation
 - **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks
-- **Tools & Platforms:** Git, GitHub, Google Cloud, Firebase Hosting, UiPath (RPA), Salesforce, MS Office, Visual Studio
-- **Software Development:** REST APIs, Authentication & Authorization, CRUD Operations, MVC Architecture, Unit Testing, Version Control (Git), Agile/Scrum, SDLC, Data Cleaning, Dashboard Development, Debugging
+- **Tools & Platforms:** Git, GitHub, Google Cloud, Firebase Hosting, MS Office, Visual Studio
+- **Software Development:** REST APIs, Authentication & Authorization, CRUD Operations, MVC Architecture, Unit Testing, Version Control (Git), Agile/Scrum, SDLC, Debugging
 ---
 ## 📜 Certifications
 - Python Programming – Microsoft via Skill India Digital Hub (Mar 2026)
-- Salesforce Developer – SmartBridge via Naan Mudhalvan – TNSDC (Dec 2025)
 - Introduction to Generative AI – Google Cloud (Dec 2025)
 - Microsoft Office Essentials – Microsoft via Naan Mudhalvan – TNSDC (Oct 2025)
 - Machine Learning Project using R – Anna University (May 2025)
@@ -70,4 +68,4 @@ Pavendar Bharathidasan College of Engineering and Technology, Anna University, T
 - Tamil – Native / Mother Tongue
 - English – Professional Working Proficiency
 ---
-⭐ Open to internships & entry-level roles in Full Stack (.NET) Development and Data Analytics
+⭐ Open to internships & entry-level roles in Full Stack Development and Data Analytics
